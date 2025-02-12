@@ -75,7 +75,3 @@ Este projeto foi desenvolvido com o auxílio de **inteligência artificial** par
 
 ## Licença
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Esse `README.md` é informativo, organizado e destaca o uso da inteligência artificial de forma clara. Você pode personalizá-lo conforme necessário! 😊
