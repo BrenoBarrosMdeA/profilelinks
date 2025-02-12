@@ -1,0 +1,43 @@
+@media (max-width: 768px) {
+    main {
+        padding-top: 330px;
+
+    }
+
+    .foto img {
+        width: 120px;
+        height: 120px;
+    }
+
+    .titulo h1 {
+        font-size: 24px;
+    }
+
+    .titulo h3 {
+        font-size: 16px;
+    }
+
+    .infos button {
+        padding: 10px;
+    }
+
+    .infos button span:first-child {
+        font-size: 18px;
+    }
+
+    .infos button span:last-child {
+        font-size: 14px;
+    }
+
+    .links .titulo h1 {
+        font-size: 20px;
+    }
+
+    .profile-none .titulo h1 {
+        font-size: 20px;
+    }
+
+    .profile-none .texto p {
+        font-size: 14px;
+    }
+}
