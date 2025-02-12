@@ -1,6 +1,4 @@
-Aqui está um exemplo de arquivo `README.md` para o seu repositório, explicando o projeto e destacando que ele foi desenvolvido com o auxílio de inteligência artificial:
 
----
 
 # Profile Links - Breno Barros
 
